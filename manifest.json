@@ -1,0 +1,9 @@
+{
+    "name": "ST Diary System",
+    "version": "1.0.0",
+    "display_name": "📔 ST Diary",
+    "description": "Interactive Diary UI for SillyTavern. Press Z to toggle. AI writes diary entries with photos.",
+    "author": "User",
+    "js": "index.js",
+    "css": "style.css"
+}
